@@ -1,0 +1,1 @@
+Aprendendo sobre function entre outras coisas.
